@@ -5,54 +5,58 @@ source_metadata:
   title: གསུང་འབུམ། རྒྱལ་ཚབ་རྗེ། ༼བཀྲས་ལྷུན་པར་རྙིང་བསྐྱར་པར་མ།༽
   author: ''
   volumes:
-    74a8de33f399443d824b3a45c7f94f26:
+    16f6540508c04ebebb4ebaeb414487b5:
       image_group_id: I00KG03914
-      title: ''
+      title: Volume 1 of gsung 'bum/_rgyal tshab rje (gelek)
       volume_number: 1
       total_pages: 512
-    3aa06445638e4d9383fc7e8a07c7a961:
+      base_file: v001.txt
+    166552f732534629b88a05f0ef36997e:
       image_group_id: I00KG03915
-      title: ''
+      title: Volume 2 of gsung 'bum/_rgyal tshab rje (gelek)
       volume_number: 2
       total_pages: 605
-    7966659654184180897cd7fddb50f729:
+      base_file: v002.txt
+    4d9ebda5f8b343108dc5247dbe35c498:
       image_group_id: I00KG03916
-      title: ''
+      title: Volume 3 of gsung 'bum/_rgyal tshab rje (gelek)
       volume_number: 3
       total_pages: 0
-    ce59646fbb8841318a235df090d27bd0:
+    be5f62e8f4c9499988ecbb7f737331c3:
       image_group_id: I00KG03917
-      title: ''
+      title: Volume 4 of gsung 'bum/_rgyal tshab rje (gelek)
       volume_number: 4
       total_pages: 532
-    d780bc61b1c449f393f30af6863ec618:
+      base_file: v003.txt
+    22f31baf6565471c9d747807b32adeca:
       image_group_id: I00KG03918
-      title: ''
+      title: Volume 5 of gsung 'bum/_rgyal tshab rje (gelek)
       volume_number: 5
       total_pages: 584
-    f9761090b7ac4c689663ff9935a2e781:
+      base_file: v004.txt
+    7e207f78617145ff8f045825743e4d2c:
       image_group_id: I00KG03919
-      title: ''
+      title: Volume 6 of gsung 'bum/_rgyal tshab rje (gelek)
       volume_number: 6
       total_pages: 0
-    4153a4ed5c9b49edadc388a1d57f409d:
+    3fe8303eb51a4ad2b1eddb8954c02b52:
       image_group_id: I00KG03920
-      title: ''
+      title: Volume 7 of gsung 'bum/_rgyal tshab rje (gelek)
       volume_number: 7
       total_pages: 0
-    e7357d845a214431bd3d0ebe4d355756:
+    bca671dfb25d460db5d66059623b4948:
       image_group_id: I00KG03921
-      title: ''
+      title: Volume 8 of gsung 'bum/_rgyal tshab rje (gelek)
       volume_number: 8
       total_pages: 0
-    5a8013401f3544828f885741ad14141c:
+    1ebaa324216f425d94fcfe8f72d1eea9:
       image_group_id: I00KG03922
-      title: ''
+      title: Volume 9 of gsung 'bum/_rgyal tshab rje (gelek)
       volume_number: 9
       total_pages: 0
-    d3b547f7e5c5430899f59355963ee546:
+    5d19b19ec5a4426d8081566d1fb45384:
       image_group_id: I00KG03923
-      title: ''
+      title: Volume 10 of gsung 'bum/_rgyal tshab rje (gelek)
       volume_number: 10
       total_pages: 0
 ebook_metadata:

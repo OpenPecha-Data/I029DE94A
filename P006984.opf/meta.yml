@@ -1,7 +1,7 @@
 id: P006984
 initial_creation_type: ocr
 created_at: 29/03/2020
-last_modified_at: 25/11/2021
+last_modified_at: 2021-12-17 12:34:22.614801
 source_metadata:
   id: bdr:W22110
   title: གསུང་འབུམ། རྒྱལ་ཚབ་རྗེ། ༼བཀྲས་ལྷུན་པར་རྙིང་བསྐྱར་པར་མ།༽
@@ -61,3 +61,5 @@ source_metadata:
       title: Volume 10 of gsung 'bum/_rgyal tshab rje (gelek)
       volume_number: 10
       total_pages: 0
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  restrictedInChina: false
